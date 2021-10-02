@@ -9,12 +9,9 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконали:** 
 
-*студенти [X]-го курсу, групи (шифр групи)* 
+*студент 4-го курсу, групи ІП-83* 
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
-
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
-
+**[Стародубець Ілля](https://github.com/mrill) email: ilua.starodubec@gmail.com telegram: @mrrl0**
 
 **Керівник**
 
