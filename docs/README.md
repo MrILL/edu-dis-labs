@@ -13,6 +13,9 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **[Стародубець Ілля](https://github.com/mrill) email: ilua.starodubec@gmail.com telegram: @mrrl0**
 
+**[Черевач Анатолій](https://github.com/cherevach) email: anatoliycherevach@gmail.com
+telegram: @pvrsdprms**
+
 **Керівник**
 
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
