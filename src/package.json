@@ -1,0 +1,11 @@
+{
+  "name": "nest-rest",
+  "version": "1.0.0",
+  "description": "В цьому розділі розміщені програмні коди.",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrILL",
+  "license": "ISC"
+}
